@@ -50,3 +50,6 @@ shp/
 data/
 output/
 raster/
+# Add to your .gitignore
+cache/
+.idea/
